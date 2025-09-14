@@ -78,5 +78,3 @@ Recomendamos que você crie um repositório próprio, estruturado com subdiretó
 Consulte os seguintes materiais para ajuda adicional:
 - [Tutorial de Entregas pelo Github](TutorialEntregasGithub.pdf)
 - [Organizando seu repositório no Github](OrganizandoRepositorioGithub.pdf)
-
-
