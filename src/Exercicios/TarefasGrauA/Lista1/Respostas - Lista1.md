@@ -240,16 +240,16 @@ src/Exercicios/TarefasGrauA/Lista1
 ```
 
 a. Apenas com o polígono preenchido:
-[PoligonoPreenchido.cpp](src/Exercicios/TarefasGrauA/Lista1/PoligonoPreenchido.cpp)
+[PoligonoPreenchido.cpp](./PoligonoPreenchido.cpp)
 
 b. Apenas com contorno:
-[ApenasComContorno.cpp](src/Exercicios/TarefasGrauA/Lista1/ApenasComContorno.cpp)
+[ApenasComContorno.cpp](./ApenasComContorno.cpp)
 
 c. Apenas como pontos:
-[ApenasComoPontos.cpp](src/Exercicios/TarefasGrauA/Lista1/ApenasComPontos.cpp)
+[ApenasComPontos.cpp](./ApenasComPontos.cpp)
 
 d. Com as 3 formas de desenho juntas:
-[TresFormasJuntas.cpp](src/Exercicios/TarefasGrauA/Lista1/TresFormasJuntas.cpp)
+[TresFormasJuntas.cpp](./TresFormasJuntas.cpp)
 
 ---
 
@@ -262,19 +262,19 @@ src/Exercicios/TarefasGrauA/Lista1
 ```
 
 a. Desenhe um octágono:
-[Octagono.cpp](src/Exercicios/TarefasGrauA/Lista1/Octagono.cpp)
+[Octagono.cpp](./Octagono.cpp)
 
 b. Desenhe um pentágono
-[Pentagono.cpp](src/Exercicios/TarefasGrauA/Lista1/Pentagono.cpp)
+[Pentagono.cpp](./Pentagono.cpp)
 
 c. Desenhe um pac-man! 
-[PacMan.cpp](src/Exercicios/TarefasGrauA/Lista1/PacMan.cpp)
+[PacMan.cpp](./PacMan.cpp)
 
 d. Desenhe uma fatia de pizza 
-[FatiaPizza.cpp](src/Exercicios/TarefasGrauA/Lista1/FatiaPizza.cpp)
+[FatiaPizza.cpp](./FatiaPizza.cpp)
 
 e. DESAFIO: desenhe uma “estrela” 
-[Estrela.cpp](src/Exercicios/TarefasGrauA/Lista1/Estrela.cpp)
+[Estrela.cpp](./Estrela.cpp)
 
 ### 7. Desenhe uma espiral, assim: 
 
@@ -399,4 +399,4 @@ O desenho abaixo se encontra na pasta:
 src/Exercicios/TarefasGrauA/Lista1/DesenhoCustomizado.cpp
 ```
 
-[DesenhoCustomizado.cpp](src/Exercicios/TarefasGrauA/Lista1/DesenhoCustomizado.cpp)
+[DesenhoCustomizado.cpp](./DesenhoCustomizado.cpp)

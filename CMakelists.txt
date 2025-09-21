@@ -48,7 +48,11 @@ include_directories(${stb_image_SOURCE_DIR})
 # Lista de exemplos/exercícios podem ser colocados aqui também
 # OBS.: Não pode ter acentos ou caracteres especiais
 set(EXERCISES
+
+    # Pasta comum
     Exercicios/HelloTriangle
+
+    # Lista 1 - Tarefas de Grau A
     Exercicios/TarefasGrauA/Lista1/PoligonoPreenchido
     Exercicios/TarefasGrauA/Lista1/ApenasComContorno
     Exercicios/TarefasGrauA/Lista1/ApenasComPontos
@@ -62,6 +66,14 @@ set(EXERCISES
     Exercicios/TarefasGrauA/Lista1/Espiral
     Exercicios/TarefasGrauA/Lista1/TrianguloQuestao8
     Exercicios/TarefasGrauA/Lista1/DesenhoCustomizado
+
+    # Lista 2 - Tarefas de Grau A
+    Exercicios/TarefasGrauA/Lista2/Exercicio1Circulo
+    Exercicios/TarefasGrauA/Lista2/Exercicio2Circulo
+    Exercicios/TarefasGrauA/Lista2/Exercicio3
+    Exercicios/TarefasGrauA/Lista2/ViewportComQuadrante
+    Exercicios/TarefasGrauA/Lista2/ViewportFull
+    Exercicios/TarefasGrauA/Lista2/TriangulosComClique
     )
 
 add_compile_options(-Wno-pragmas)
